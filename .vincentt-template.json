@@ -33,6 +33,17 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/orange/ExperienceStatus.tsx",
+    "src/orange/Hud.tsx",
+    "src/orange/OrangeHead.tsx",
+    "src/orange/config.ts",
+    "src/orange/features.ts",
+    "src/orange/leaf.ts",
+    "src/orange/orange.test.ts",
+    "src/orange/state.ts",
+    "src/DevMediaSwitcher.tsx",
+    "src/DevOrange.tsx",
+    "src/orange/juice.ts"
   ]
 }

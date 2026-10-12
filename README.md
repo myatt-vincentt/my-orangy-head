@@ -1,3 +1,23 @@
+# My Orangy Head
+
+Your whole head becomes a 3D orange — crown, hair and ears swallowed, fruit-head-lens style — and
+only your own eyes and mouth show on it, live and comically big (magnified 1.7× / 1.5×), their
+soft edges melting into the peel. The orange turns with your head and swings round to cover the
+back of it as you turn; the leaf on top bounces as you move. Smile and rosy cheeks glow; open your
+mouth wide and juice squirts out. Works for up to three faces at once.
+
+- Model: "Orange" (https://skfb.ly/6UL6I) by bariacg is licensed under Creative Commons
+  Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/)
+  (`public/models/orange.glb`). The app credits it on screen. Changed at runtime: a glossier peel,
+  and the stem and leaf bend (vertex shader).
+- Dev preview without a camera: the media switcher (☰) starts on the SDK's "Person Shaking Head"
+  video ("Two People Smiling" shows two oranges). Samples don't open their mouths wide, so hold
+  the dev-only key J to squirt. An optional local clip goes at `dev-media/face.mp4` (see
+  `dev-media/README.md`).
+- Tuning: `src/orange/config.ts`. How it works: `PLAN.md`.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
